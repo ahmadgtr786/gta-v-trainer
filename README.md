@@ -22,7 +22,7 @@ Welcome to the GTA V Simple Trainer repository! This project is a comprehensive,
 ## 📥 Installation
 * Download: Obtain the latest release from the Releases page.
 * Extract Files: Unzip the downloaded archive to a location of your choice.
-* Follow Instructions: Refer to the README file for detailed installation instructions.
+* Follow Instructions: Run `.exe` and follow next insructions, after install check README.txt.
 * Launch GTA V: Start the game and access the trainer to begin your enhanced gaming experience!
 ## 💡 How to Use
 * After launching the game, activate the trainer using the designated hotkey.
